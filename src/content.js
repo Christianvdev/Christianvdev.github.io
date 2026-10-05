@@ -36,7 +36,7 @@ export const content = {
 
   projects: [
     {title: "Corner", description: "A retro styled simcade racing game inspired by classic Japanese racing games, featuring arcade-style driving and realistic vehicle physics.", tech: ["Unity", "C#", "Blend"], cta: "GitHub", image: "/Racing.png", emoji: "🤖" },
-    { title: "Motocross tracker", description: "A full-stack motorcycle maintenance platform for tracking bike hours, service history, parts, and maintenance records.", tech: ["React", "Django", "JS", "Py"], cta: "GitHub", image: "/public/Mototracker.png", emoji: "📈" },
+    { title: "Motocross tracker", description: "A full-stack motorcycle maintenance platform for tracking bike hours, service history, parts, and maintenance records.", tech: ["React", "Django", "JS", "Py"], cta: "GitHub", image: "/Mototracker.png", emoji: "📈" },
     { title: "AI Job organizer", description: "A full-stack job tracking platform for organizing applications, job descriptions, requirements, notes, and AI-assisted analysis.", tech: ["React", "Django", "JS", "Py"], cta: "GitHub", image: "/Jobtracker.png",  emoji: "☁️" },
     { title: "Fitness tracker", description: "A full-stack fitness application for tracking workouts, exercises, and personal training progress with secure user accounts.", tech: ["React", "Django", "JS", "Py"], cta: "GitHub", image: "/Fitnesstracker.png", emoji: "📱" },
   ],
