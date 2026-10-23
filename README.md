@@ -1,16 +1,35 @@
-# React + Vite
+# Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The source code for [Christian's developer portfolio](https://christianvdev.github.io/), built with React and Vite.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The site highlights software projects, technical experience, education, and contact information. Its project section showcases full-stack web applications and developer-focused work.
 
-## React Compiler
+## Run locally
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```bash
+git clone https://github.com/Christianvdev/Christianvdev.github.io.git
+cd Christianvdev.github.io
+npm install
+npm run dev
+```
 
-## Expanding the ESLint configuration
+## Production build
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm run build
+```
+
+## Tech stack
+
+React · JavaScript · Vite · CSS
+
+## Updating content
+
+Edit `src/content.js` to update project descriptions, experience, education, and contact links. Page components live in `src/components/`.
+
+## Links
+
+- [Live portfolio](https://christianvdev.github.io/)
+- [GitHub profile](https://github.com/Christianvdev)
