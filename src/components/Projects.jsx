@@ -32,7 +32,7 @@ export default function Projects() {
 
               <a
                 className="btn btn-ghost"
-                href="#"
+                href={project.url}
                 rel="noopener noreferrer"
               >
                 <span className="roll">
