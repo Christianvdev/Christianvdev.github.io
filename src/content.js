@@ -27,7 +27,7 @@ export const content = {
   ],
 
   education: [
-    { title: "High school", dates: "2023 – 2027", school: "Example High School", honor: "Honorary graduate" },
+    { title: "High school", dates: "2023 – 2027", school: "MassCA", honor: "Honorary graduate" },
     { title: "IT Customer Support Basics", dates: "9/25/2025", school: "CISCO Networking Academy", honor: "Honorary graduate" },
   ],
 
